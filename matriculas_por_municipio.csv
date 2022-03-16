@@ -1,0 +1,451 @@
+NO_UF,CO_MUNICIPIO,NO_MUNICIPIO,TP_DEPENDENCIA,QT_MAT_INF_soma,QT_MAT_INF_CRE_soma,QT_MAT_INF_PRE_soma
+Rondônia,1100015,Alta Floresta D'Oeste,3,623,147,476
+Rondônia,1100023,Ariquemes,3,2110,613,1497
+Rondônia,1100031,Cabixi,3,209,66,143
+Rondônia,1100049,Cacoal,3,2146,423,1723
+Rondônia,1100056,Cerejeiras,3,669,267,402
+Rondônia,1100064,Colorado do Oeste,3,547,211,336
+Rondônia,1100072,Corumbiara,3,248,57,191
+Rondônia,1100080,Costa Marques,3,416,64,352
+Rondônia,1100098,Espigão D'Oeste,3,788,155,633
+Rondônia,1100106,Guajará-Mirim,3,1027,276,751
+Rondônia,1100114,Jaru,3,1621,527,1094
+Rondônia,1100122,Ji-Paraná,3,2466,320,2146
+Rondônia,1100130,Machadinho D'Oeste,3,957,212,745
+Rondônia,1100148,Nova Brasilândia D'Oeste,3,565,180,385
+Rondônia,1100155,Ouro Preto do Oeste,3,1195,438,757
+Rondônia,1100189,Pimenta Bueno,3,1384,552,832
+Rondônia,1100205,Porto Velho,3,12344,2594,9750
+Rondônia,1100254,Presidente Médici,3,567,208,359
+Rondônia,1100262,Rio Crespo,3,108,13,95
+Rondônia,1100288,Rolim de Moura,3,1625,498,1127
+Rondônia,1100296,Santa Luzia D'Oeste,3,200,57,143
+Rondônia,1100304,Vilhena,3,3015,791,2224
+Rondônia,1100320,São Miguel do Guaporé,3,662,165,497
+Rondônia,1100338,Nova Mamoré,3,727,74,653
+Rondônia,1100346,Alvorada D'Oeste,3,443,153,290
+Rondônia,1100379,Alto Alegre dos Parecis,3,334,117,217
+Rondônia,1100403,Alto Paraíso,3,230,76,154
+Rondônia,1100452,Buritis,3,831,119,712
+Rondônia,1100502,Novo Horizonte do Oeste,3,244,71,173
+Rondônia,1100601,Cacaulândia,3,167,32,135
+Rondônia,1100700,Campo Novo de Rondônia,3,311,91,220
+Rondônia,1100809,Candeias do Jamari,3,860,185,675
+Rondônia,1100908,Castanheiras,3,101,0,101
+Rondônia,1100924,Chupinguaia,3,389,127,262
+Rondônia,1100940,Cujubim,3,556,150,406
+Rondônia,1101005,Governador Jorge Teixeira,3,251,53,198
+Rondônia,1101104,Itapuã do Oeste,3,349,95,254
+Rondônia,1101203,Ministro Andreazza,3,231,67,164
+Rondônia,1101302,Mirante da Serra,3,294,52,242
+Rondônia,1101401,Monte Negro,3,388,108,280
+Rondônia,1101435,Nova União,3,164,10,154
+Rondônia,1101450,Parecis,3,83,0,83
+Rondônia,1101468,Pimenteiras do Oeste,3,98,30,68
+Rondônia,1101476,Primavera de Rondônia,3,145,43,102
+Rondônia,1101484,São Felipe D'Oeste,3,211,82,129
+Rondônia,1101492,São Francisco do Guaporé,3,498,96,402
+Rondônia,1101500,Seringueiras,3,308,0,308
+Rondônia,1101559,Teixeirópolis,3,223,103,120
+Rondônia,1101609,Theobroma,3,269,69,200
+Rondônia,1101708,Urupá,3,352,99,253
+Rondônia,1101757,Vale do Anari,3,218,23,195
+Rondônia,1101807,Vale do Paraíso,3,197,51,146
+Acre,1200013,Acrelândia,3,713,303,410
+Acre,1200054,Assis Brasil,3,323,57,266
+Acre,1200104,Brasiléia,3,1035,272,763
+Acre,1200138,Bujari,3,486,204,282
+Acre,1200179,Capixaba,3,535,117,418
+Acre,1200203,Cruzeiro do Sul,3,4842,1554,3288
+Acre,1200252,Epitaciolândia,3,772,175,597
+Acre,1200302,Feijó,3,1141,168,973
+Acre,1200328,Jordão,3,513,209,304
+Acre,1200336,Mâncio Lima,3,1145,503,642
+Acre,1200344,Manoel Urbano,3,409,127,282
+Acre,1200351,Marechal Thaumaturgo,3,854,279,575
+Acre,1200385,Plácido de Castro,3,718,177,541
+Acre,1200393,Porto Walter,3,817,341,476
+Acre,1200401,Rio Branco,3,13251,4424,8827
+Acre,1200427,Rodrigues Alves,3,1616,1014,602
+Acre,1200435,Santa Rosa do Purus,3,411,75,336
+Acre,1200450,Senador Guiomard,3,1136,323,813
+Acre,1200500,Sena Madureira,3,1103,226,877
+Acre,1200609,Tarauacá,3,1625,242,1383
+Acre,1200708,Xapuri,3,615,184,431
+Acre,1200807,Porto Acre,3,808,284,524
+Amazonas,1300029,Alvarães,3,1118,434,684
+Amazonas,1300060,Amaturá,3,873,307,566
+Amazonas,1300086,Anamã,3,471,74,397
+Amazonas,1300102,Anori,3,603,130,473
+Amazonas,1300144,Apuí,3,696,216,480
+Amazonas,1300201,Atalaia do Norte,3,781,139,642
+Amazonas,1300300,Autazes,3,1387,147,1240
+Amazonas,1300409,Barcelos,3,912,239,673
+Amazonas,1300508,Barreirinha,3,2073,594,1479
+Amazonas,1300607,Benjamin Constant,3,2152,411,1741
+Amazonas,1300631,Beruri,3,773,74,699
+Amazonas,1300680,Boa Vista do Ramos,3,1118,464,654
+Amazonas,1300706,Boca do Acre,3,863,93,770
+Amazonas,1300805,Borba,3,1839,648,1191
+Amazonas,1300839,Caapiranga,3,882,431,451
+Amazonas,1300904,Canutama,3,441,65,376
+Amazonas,1301001,Carauari,3,1619,520,1099
+Amazonas,1301100,Careiro,3,1782,693,1089
+Amazonas,1301159,Careiro da Várzea,3,706,118,588
+Amazonas,1301209,Coari,3,2189,240,1949
+Amazonas,1301308,Codajás,3,745,111,634
+Amazonas,1301407,Eirunepé,3,2006,653,1353
+Amazonas,1301506,Envira,3,775,170,605
+Amazonas,1301605,Fonte Boa,3,1671,670,1001
+Amazonas,1301654,Guajará,3,821,339,482
+Amazonas,1301704,Humaitá,3,1883,281,1602
+Amazonas,1301803,Ipixuna,3,602,38,564
+Amazonas,1301852,Iranduba,3,2086,374,1712
+Amazonas,1301902,Itacoatiara,3,3405,509,2896
+Amazonas,1301951,Itamarati,3,674,216,458
+Amazonas,1302009,Itapiranga,3,486,162,324
+Amazonas,1302108,Japurá,3,803,377,426
+Amazonas,1302207,Juruá,3,885,421,464
+Amazonas,1302306,Jutaí,3,1831,681,1150
+Amazonas,1302405,Lábrea,3,1272,255,1017
+Amazonas,1302504,Manacapuru,3,3987,925,3062
+Amazonas,1302553,Manaquiri,3,734,129,605
+Amazonas,1302603,Manaus,3,50837,5978,44859
+Amazonas,1302702,Manicoré,3,3325,1487,1838
+Amazonas,1302801,Maraã,3,1403,714,689
+Amazonas,1302900,Maués,3,2118,382,1736
+Amazonas,1303007,Nhamundá,3,1000,299,701
+Amazonas,1303106,Nova Olinda do Norte,3,1486,372,1114
+Amazonas,1303205,Novo Airão,3,471,0,471
+Amazonas,1303304,Novo Aripuanã,3,950,313,637
+Amazonas,1303403,Parintins,3,4733,1291,3442
+Amazonas,1303502,Pauini,3,513,145,368
+Amazonas,1303536,Presidente Figueiredo,3,1610,522,1088
+Amazonas,1303569,Rio Preto da Eva,3,1080,348,732
+Amazonas,1303601,Santa Isabel do Rio Negro,3,792,201,591
+Amazonas,1303700,Santo Antônio do Içá,3,2335,939,1396
+Amazonas,1303809,São Gabriel da Cachoeira,3,2492,276,2216
+Amazonas,1303908,São Paulo de Olivença,3,1725,137,1588
+Amazonas,1303957,São Sebastião do Uatumã,3,337,0,337
+Amazonas,1304005,Silves,3,448,52,396
+Amazonas,1304062,Tabatinga,3,4471,1685,2786
+Amazonas,1304104,Tapauá,3,939,241,698
+Amazonas,1304203,Tefé,3,4325,1781,2544
+Amazonas,1304237,Tonantins,3,1148,333,815
+Amazonas,1304260,Uarini,3,684,199,485
+Amazonas,1304302,Urucará,3,631,142,489
+Amazonas,1304401,Urucurituba,3,1072,470,602
+Roraima,1400027,Amajari,3,595,209,386
+Roraima,1400050,Alto Alegre,3,717,139,578
+Roraima,1400100,Boa Vista,3,12691,2477,10214
+Roraima,1400159,Bonfim,3,739,33,706
+Roraima,1400175,Cantá,3,807,35,772
+Roraima,1400209,Caracaraí,3,958,288,670
+Roraima,1400233,Caroebe,3,481,159,322
+Roraima,1400282,Iracema,3,362,121,241
+Roraima,1400308,Mucajaí,3,887,227,660
+Roraima,1400407,Normandia,3,1853,967,886
+Roraima,1400456,Pacaraima,3,1524,496,1028
+Roraima,1400472,Rorainópolis,3,1449,435,1014
+Roraima,1400506,São João da Baliza,3,426,185,241
+Roraima,1400605,São Luiz,3,370,143,227
+Roraima,1400704,Uiramutã,3,990,37,953
+Pará,1500107,Abaetetuba,3,6203,1917,4286
+Pará,1500131,Abel Figueiredo,3,328,95,233
+Pará,1500206,Acará,3,3686,1441,2245
+Pará,1500305,Afuá,3,1793,234,1559
+Pará,1500347,Água Azul do Norte,3,702,301,401
+Pará,1500404,Alenquer,3,1797,61,1736
+Pará,1500503,Almeirim,3,1243,0,1243
+Pará,1500602,Altamira,3,4913,1646,3267
+Pará,1500701,Anajás,3,1490,223,1267
+Pará,1500800,Ananindeua,3,9235,3098,6137
+Pará,1500859,Anapu,3,1152,118,1034
+Pará,1500909,Augusto Corrêa,3,1718,169,1549
+Pará,1500958,Aurora do Pará,3,971,228,743
+Pará,1501006,Aveiro,3,520,0,520
+Pará,1501105,Bagre,3,818,1,817
+Pará,1501204,Baião,3,1501,303,1198
+Pará,1501253,Bannach,3,150,37,113
+Pará,1501303,Barcarena,3,4646,1482,3164
+Pará,1501402,Belém,3,15901,4242,11659
+Pará,1501451,Belterra,3,580,67,513
+Pará,1501501,Benevides,3,2701,881,1820
+Pará,1501576,Bom Jesus do Tocantins,3,612,192,420
+Pará,1501600,Bonito,3,459,91,368
+Pará,1501709,Bragança,3,3678,409,3269
+Pará,1501725,Brasil Novo,3,730,218,512
+Pará,1501758,Brejo Grande do Araguaia,3,519,198,321
+Pará,1501782,Breu Branco,3,1602,300,1302
+Pará,1501808,Breves,3,5090,1598,3492
+Pará,1501907,Bujaru,3,1319,498,821
+Pará,1501956,Cachoeira do Piriá,3,1023,353,670
+Pará,1502004,Cachoeira do Arari,3,1031,299,732
+Pará,1502103,Cametá,3,5302,1302,4000
+Pará,1502152,Canaã dos Carajás,3,2266,230,2036
+Pará,1502202,Capanema,3,2390,882,1508
+Pará,1502301,Capitão Poço,3,1872,512,1360
+Pará,1502400,Castanhal,3,4373,509,3864
+Pará,1502509,Chaves,3,1182,279,903
+Pará,1502608,Colares,3,599,163,436
+Pará,1502707,Conceição do Araguaia,3,1528,461,1067
+Pará,1502756,Concórdia do Pará,3,2264,1192,1072
+Pará,1502764,Cumaru do Norte,3,621,221,400
+Pará,1502772,Curionópolis,3,892,249,643
+Pará,1502806,Curralinho,3,1492,254,1238
+Pará,1502855,Curuá,3,746,233,513
+Pará,1502905,Curuçá,3,1624,616,1008
+Pará,1502939,Dom Eliseu,3,2078,998,1080
+Pará,1502954,Eldorado do Carajás,3,1037,221,816
+Pará,1503002,Faro,3,612,298,314
+Pará,1503044,Floresta do Araguaia,3,877,305,572
+Pará,1503077,Garrafão do Norte,3,1190,356,834
+Pará,1503093,Goianésia do Pará,3,1078,291,787
+Pará,1503101,Gurupá,3,2364,245,2119
+Pará,1503200,Igarapé-Açu,3,1357,352,1005
+Pará,1503309,Igarapé-Miri,3,2567,570,1997
+Pará,1503408,Inhangapi,3,297,0,297
+Pará,1503457,Ipixuna do Pará,3,2162,934,1228
+Pará,1503507,Irituia,3,846,0,846
+Pará,1503606,Itaituba,3,5642,1761,3881
+Pará,1503705,Itupiranga,3,1376,0,1376
+Pará,1503754,Jacareacanga,3,1259,179,1080
+Pará,1503804,Jacundá,3,1915,851,1064
+Pará,1503903,Juruti,3,2786,579,2207
+Pará,1504000,Limoeiro do Ajuru,3,1398,371,1027
+Pará,1504059,Mãe do Rio,3,1256,356,900
+Pará,1504109,Magalhães Barata,3,456,202,254
+Pará,1504208,Marabá,3,8729,2000,6729
+Pará,1504307,Maracanã,3,1157,275,882
+Pará,1504406,Marapanim,3,933,219,714
+Pará,1504422,Marituba,3,5259,1913,3346
+Pará,1504455,Medicilândia,3,1075,260,815
+Pará,1504505,Melgaço,3,1614,350,1264
+Pará,1504604,Mocajuba,3,1772,669,1103
+Pará,1504703,Moju,3,3406,691,2715
+Pará,1504752,Mojuí dos Campos,3,619,0,619
+Pará,1504802,Monte Alegre,3,2783,654,2129
+Pará,1504901,Muaná,3,944,0,944
+Pará,1504950,Nova Esperança do Piriá,3,909,260,649
+Pará,1504976,Nova Ipixuna,3,507,146,361
+Pará,1505007,Nova Timboteua,3,519,180,339
+Pará,1505031,Novo Progresso,3,1817,775,1042
+Pará,1505064,Novo Repartimento,3,2540,644,1896
+Pará,1505106,Óbidos,3,1456,299,1157
+Pará,1505205,Oeiras do Pará,3,1797,499,1298
+Pará,1505304,Oriximiná,3,2933,611,2322
+Pará,1505403,Ourém,3,864,357,507
+Pará,1505437,Ourilândia do Norte,3,1373,397,976
+Pará,1505486,Pacajá,3,1815,509,1306
+Pará,1505494,Palestina do Pará,3,347,126,221
+Pará,1505502,Paragominas,3,3754,856,2898
+Pará,1505536,Parauapebas,3,8204,1855,6349
+Pará,1505551,Pau D'Arco,33,364,154,210
+Pará,1505601,Peixe-Boi,3,494,264,230
+Pará,1505635,Piçarra,3,781,352,429
+Pará,1505650,Placas,3,1113,204,909
+Pará,1505700,Ponta de Pedras,3,998,184,814
+Pará,1505809,Portel,3,2399,424,1975
+Pará,1505908,Porto de Moz,3,1465,184,1281
+Pará,1506005,Prainha,3,1909,494,1415
+Pará,1506104,Primavera,3,509,180,329
+Pará,1506112,Quatipuru,3,446,108,338
+Pará,1506138,Redenção,3,3261,1162,2099
+Pará,1506161,Rio Maria,3,546,103,443
+Pará,1506187,Rondon do Pará,3,1266,304,962
+Pará,1506195,Rurópolis,3,1284,391,893
+Pará,1506203,Salinópolis,3,1616,445,1171
+Pará,1506302,Salvaterra,3,963,210,753
+Pará,1506351,Santa Bárbara do Pará,3,1039,392,647
+Pará,1506401,Santa Cruz do Arari,3,439,188,251
+Pará,1506500,Santa Izabel do Pará,3,2135,530,1605
+Pará,1506559,Santa Luzia do Pará,3,641,46,595
+Pará,1506583,Santa Maria das Barreiras,3,661,138,523
+Pará,1506609,Santa Maria do Pará,3,1173,513,660
+Pará,1506708,Santana do Araguaia,3,2299,1188,1111
+Pará,1506807,Santarém,3,12143,2750,9393
+Pará,1506906,Santarém Novo,3,306,136,170
+Pará,1507003,Santo Antônio do Tauá,3,1138,275,863
+Pará,1507102,São Caetano de Odivelas,3,874,335,539
+Pará,1507151,São Domingos do Araguaia,3,971,197,774
+Pará,1507201,São Domingos do Capim,3,1561,573,988
+Pará,1507300,São Félix do Xingu,3,2765,942,1823
+Pará,1507409,São Francisco do Pará,3,390,0,390
+Pará,1507458,São Geraldo do Araguaia,3,1186,449,737
+Pará,1507466,São João da Ponta,3,245,90,155
+Pará,1507474,São João de Pirabas,3,601,0,601
+Pará,1507508,São João do Araguaia,3,664,162,502
+Pará,1507607,São Miguel do Guamá,3,2195,546,1649
+Pará,1507706,São Sebastião da Boa Vista,3,1256,345,911
+Pará,1507755,Sapucaia,3,439,234,205
+Pará,1507805,Senador José Porfírio,3,845,100,745
+Pará,1507904,Soure,3,1338,506,832
+Pará,1507953,Tailândia,3,3120,835,2285
+Pará,1507961,Terra Alta,3,287,0,287
+Pará,1507979,Terra Santa,3,852,194,658
+Pará,1508001,Tomé-Açu,3,3016,503,2513
+Pará,1508035,Tracuateua,3,883,82,801
+Pará,1508050,Trairão,3,654,198,456
+Pará,1508084,Tucumã,3,1883,756,1127
+Pará,1508100,Tucuruí,3,3797,1075,2722
+Pará,1508126,Ulianópolis,3,1394,582,812
+Pará,1508159,Uruará,3,1628,172,1456
+Pará,1508209,Vigia,3,1697,464,1233
+Pará,1508308,Viseu,3,3408,1202,2206
+Pará,1508357,Vitória do Xingu,3,885,269,616
+Pará,1508407,Xinguara,3,2120,819,1301
+Amapá,1600055,Serra do Navio,3,145,0,145
+Amapá,1600105,Amapá,3,393,115,278
+Amapá,1600154,Pedra Branca do Amapari,3,425,0,425
+Amapá,1600204,Calçoene,3,580,185,395
+Amapá,1600212,Cutias,3,290,80,210
+Amapá,1600238,Ferreira Gomes,3,408,85,323
+Amapá,1600253,Itaubal,3,294,63,231
+Amapá,1600279,Laranjal do Jari,3,1472,423,1049
+Amapá,1600303,Macapá,3,9539,969,8570
+Amapá,1600402,Mazagão,3,1811,816,995
+Amapá,1600501,Oiapoque,3,1226,509,717
+Amapá,1600535,Porto Grande,3,652,84,568
+Amapá,1600550,Pracuúba,3,150,0,150
+Amapá,1600600,Santana,3,3152,367,2785
+Amapá,1600709,Tartarugalzinho,3,635,79,556
+Amapá,1600808,Vitória do Jari,3,604,179,425
+Tocantins,1700251,Abreulândia,3,165,82,83
+Tocantins,1700301,Aguiarnópolis,3,237,85,152
+Tocantins,1700350,Aliança do Tocantins,3,242,141,101
+Tocantins,1700400,Almas,3,283,107,176
+Tocantins,1700707,Alvorada,3,365,165,200
+Tocantins,1701002,Ananás,3,423,117,306
+Tocantins,1701051,Angico,3,140,75,65
+Tocantins,1701101,Aparecida do Rio Negro,3,252,105,147
+Tocantins,1701309,Aragominas,3,188,63,125
+Tocantins,1701903,Araguacema,3,281,85,196
+Tocantins,1702000,Araguaçu,3,297,127,170
+Tocantins,1702109,Araguaína,3,7058,3367,3691
+Tocantins,1702158,Araguanã,3,224,85,139
+Tocantins,1702208,Araguatins,3,803,197,606
+Tocantins,1702307,Arapoema,3,266,116,150
+Tocantins,1702406,Arraias,3,340,137,203
+Tocantins,1702554,Augustinópolis,3,675,280,395
+Tocantins,1702703,Aurora do Tocantins,3,111,46,65
+Tocantins,1702901,Axixá do Tocantins,3,579,266,313
+Tocantins,1703008,Babaçulândia,3,311,126,185
+Tocantins,1703057,Bandeirantes do Tocantins,3,189,98,91
+Tocantins,1703073,Barra do Ouro,3,238,66,172
+Tocantins,1703107,Barrolândia,3,205,83,122
+Tocantins,1703206,Bernardo Sayão,3,307,169,138
+Tocantins,1703305,Bom Jesus do Tocantins,3,201,97,104
+Tocantins,1703602,Brasilândia do Tocantins,3,156,94,62
+Tocantins,1703701,Brejinho de Nazaré,3,252,118,134
+Tocantins,1703800,Buriti do Tocantins,3,422,210,212
+Tocantins,1703826,Cachoeirinha,3,105,51,54
+Tocantins,1703842,Campos Lindos,3,279,0,279
+Tocantins,1703867,Cariri do Tocantins,3,201,93,108
+Tocantins,1703883,Carmolândia,3,152,88,64
+Tocantins,1703891,Carrasco Bonito,3,163,71,92
+Tocantins,1703909,Caseara,3,267,118,149
+Tocantins,1704105,Centenário,3,82,29,53
+Tocantins,1704600,Chapada de Areia,3,75,33,42
+Tocantins,1705102,Chapada da Natividade,3,114,39,75
+Tocantins,1705508,Colinas do Tocantins,3,1672,801,871
+Tocantins,1705557,Combinado,3,152,58,94
+Tocantins,1705607,Conceição do Tocantins,3,148,70,78
+Tocantins,1706001,Couto Magalhães,3,283,122,161
+Tocantins,1706100,Cristalândia,3,212,98,114
+Tocantins,1706258,Crixás do Tocantins,3,109,61,48
+Tocantins,1706506,Darcinópolis,3,210,46,164
+Tocantins,1707009,Dianópolis,3,848,382,466
+Tocantins,1707108,Divinópolis do Tocantins,3,274,112,162
+Tocantins,1707207,Dois Irmãos do Tocantins,3,178,78,100
+Tocantins,1707306,Dueré,3,159,58,101
+Tocantins,1707405,Esperantina,3,444,195,249
+Tocantins,1707553,Fátima,3,151,77,74
+Tocantins,1707652,Figueirópolis,3,202,77,125
+Tocantins,1707702,Filadélfia,3,196,52,144
+Tocantins,1708205,Formoso do Araguaia,3,573,115,458
+Tocantins,1708254,Tabocão,3,175,54,121
+Tocantins,1708304,Goianorte,3,191,92,99
+Tocantins,1709005,Goiatins,3,850,393,457
+Tocantins,1709302,Guaraí,3,678,269,409
+Tocantins,1709500,Gurupi,3,2381,943,1438
+Tocantins,1709807,Ipueiras,3,72,0,72
+Tocantins,1710508,Itacajá,3,287,137,150
+Tocantins,1710706,Itaguatins,3,269,108,161
+Tocantins,1710904,Itapiratins,3,170,90,80
+Tocantins,1711100,Itaporã do Tocantins,3,115,48,67
+Tocantins,1711506,Jaú do Tocantins,3,141,55,86
+Tocantins,1711803,Juarina,3,121,60,61
+Tocantins,1711902,Lagoa da Confusão,3,636,218,418
+Tocantins,1711951,Lagoa do Tocantins,3,187,64,123
+Tocantins,1712009,Lajeado,3,204,104,100
+Tocantins,1712157,Lavandeira,3,59,27,32
+Tocantins,1712405,Lizarda,3,77,11,66
+Tocantins,1712454,Luzinópolis,3,176,93,83
+Tocantins,1712504,Marianópolis do Tocantins,3,234,97,137
+Tocantins,1712702,Mateiros,3,136,46,90
+Tocantins,1712801,Maurilândia do Tocantins,3,161,87,74
+Tocantins,1713205,Miracema do Tocantins,3,536,170,366
+Tocantins,1713304,Miranorte,3,379,70,309
+Tocantins,1713601,Monte do Carmo,3,209,86,123
+Tocantins,1713700,Monte Santo do Tocantins,3,59,0,59
+Tocantins,1713809,Palmeiras do Tocantins,3,236,84,152
+Tocantins,1713957,Muricilândia,3,128,61,67
+Tocantins,1714203,Natividade,3,323,120,203
+Tocantins,1714302,Nazaré,3,222,106,116
+Tocantins,1714880,Nova Olinda,3,546,218,328
+Tocantins,1715002,Nova Rosalândia,3,138,66,72
+Tocantins,1715101,Novo Acordo,3,220,91,129
+Tocantins,1715150,Novo Alegre,3,63,23,40
+Tocantins,1715259,Novo Jardim,3,102,29,73
+Tocantins,1715507,Oliveira de Fátima,3,45,17,28
+Tocantins,1715705,Palmeirante,3,178,56,122
+Tocantins,1715754,Palmeirópolis,3,277,124,153
+Tocantins,1716109,Paraíso do Tocantins,3,1688,555,1133
+Tocantins,1716208,Paranã,3,343,85,258
+Tocantins,1716307,Pau D'Arco,3,209,104,105
+Tocantins,1716505,Pedro Afonso,3,567,193,374
+Tocantins,1716604,Peixe,3,336,132,204
+Tocantins,1716653,Pequizeiro,3,234,125,109
+Tocantins,1716703,Colméia,3,294,113,181
+Tocantins,1717008,Pindorama do Tocantins,3,142,52,90
+Tocantins,1717206,Piraquê,3,128,63,65
+Tocantins,1717503,Pium,3,220,64,156
+Tocantins,1717800,Ponte Alta do Bom Jesus,3,135,40,95
+Tocantins,1717909,Ponte Alta do Tocantins,3,316,109,207
+Tocantins,1718006,Porto Alegre do Tocantins,3,138,73,65
+Tocantins,1718204,Porto Nacional,3,2288,747,1541
+Tocantins,1718303,Praia Norte,3,307,161,146
+Tocantins,1718402,Presidente Kennedy,3,99,22,77
+Tocantins,1718451,Pugmil,3,101,47,54
+Tocantins,1718501,Recursolândia,3,163,64,99
+Tocantins,1718550,Riachinho,3,100,0,100
+Tocantins,1718659,Rio da Conceição,3,115,50,65
+Tocantins,1718709,Rio dos Bois,3,107,34,73
+Tocantins,1718758,Rio Sono,3,191,61,130
+Tocantins,1718808,Sampaio,3,274,117,157
+Tocantins,1718840,Sandolândia,3,113,15,98
+Tocantins,1718865,Santa Fé do Araguaia,3,277,121,156
+Tocantins,1718881,Santa Maria do Tocantins,3,140,60,80
+Tocantins,1718899,Santa Rita do Tocantins,3,92,35,57
+Tocantins,1718907,Santa Rosa do Tocantins,3,281,143,138
+Tocantins,1719004,Santa Tereza do Tocantins,3,90,0,90
+Tocantins,1720002,Santa Terezinha do Tocantins,3,119,46,73
+Tocantins,1720101,São Bento do Tocantins,3,282,113,169
+Tocantins,1720150,São Félix do Tocantins,3,55,12,43
+Tocantins,1720200,São Miguel do Tocantins,3,673,338,335
+Tocantins,1720259,São Salvador do Tocantins,3,128,21,107
+Tocantins,1720309,São Sebastião do Tocantins,3,226,95,131
+Tocantins,1720499,São Valério,3,162,71,91
+Tocantins,1720655,Silvanópolis,3,262,105,157
+Tocantins,1720804,Sítio Novo do Tocantins,3,736,449,287
+Tocantins,1720853,Sucupira,3,73,17,56
+Tocantins,1720903,Taguatinga,3,392,47,345
+Tocantins,1720937,Taipas do Tocantins,3,98,42,56
+Tocantins,1720978,Talismã,3,94,23,71
+Tocantins,1721000,Palmas,3,12243,5307,6936
+Tocantins,1721109,Tocantínia,3,767,444,323
+Tocantins,1721208,Tocantinópolis,3,949,391,558
+Tocantins,1721257,Tupirama,3,80,39,41
+Tocantins,1721307,Tupiratins,3,85,46,39
+Tocantins,1722081,Wanderlândia,3,333,117,216
+Tocantins,1722107,Xambioá,3,499,262,237
