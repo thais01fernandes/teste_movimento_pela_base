@@ -1,0 +1,92 @@
+---
+title: "teste_2"
+author: "Thais Pereira"
+date: "16/03/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+
+library("tidyverse")
+library("ggplot2")
+library("readr")
+library("readxl")
+library("googlesheets4")
+library("googledrive")
+library("reactable")
+library("usethis")
+
+
+
+```
+
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+
+microdados_ed_basica_2021 <- read_delim("~/currículos/teste_movimento_pela_base/microdados_ed_basica_2021.csv", 
+    delim = ";", escape_double = FALSE, locale = locale(encoding='latin1')) 
+
+
+dicionario_dados <- read_excel("~/currículos/teste_movimento_pela_base/dicionário_dados_educação_básica.xlsx", skip = 6)
+
+```
+
+
+
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+
+dicionario_dados %>% 
+  select(`Nome da Variável`, `Descrição da Variável`)
+
+```
+
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+
+  microdados_ed_basica_2021_2 <- microdados_ed_basica_2021 %>%  
+  select(NO_UF, NO_MUNICIPIO,CO_MUNICIPIO, TP_DEPENDENCIA, QT_MAT_INF, QT_MAT_INF_CRE, QT_MAT_INF_PRE) %>% 
+  filter(TP_DEPENDENCIA == 3) %>% 
+  filter(NO_UF == "Roraima" |
+         NO_UF == "Rondônia" |
+         NO_UF == "Tocantins" | 
+         NO_UF == "Pará"|
+         NO_UF == "Acre" |
+         NO_UF == "Amazonas"|
+         NO_UF == "Amapá") %>% 
+  group_by(CO_MUNICIPIO, NO_MUNICIPIO, TP_DEPENDENCIA, NO_UF) %>%
+  summarise(across(c(QT_MAT_INF, QT_MAT_INF_CRE, QT_MAT_INF_PRE), 
+                         list(soma=sum), na.rm=TRUE)) %>% 
+  ungroup() %>% 
+  mutate(TP_DEPENDENCIA = gsub(3,"Municipal", TP_DEPENDENCIA))
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
