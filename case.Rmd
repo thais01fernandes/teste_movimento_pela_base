@@ -100,7 +100,7 @@ microdados_base_limpa %>%
 
 -   O Censo Escolar 2021 foi a fonte utilizada para construção da base de dados de quantidades de matrículas por município e foi encontrada nesse endereço: [Ceso Escolar 2021](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)
 
--   O carregamento dos dados e limpeza para a preparação da tabela final e dos gráficos, assim como o código desse relatório, foi feito utilizando a linguagem de programação R e o script pode ser visualizado nesse diretório do github: [Diretório no GitHub](https://github.com/thais01fernandes/teste_movimento_pela_base)
+-   O carregamento dos dados e limpeza para a preparação da tabela final e dos gráficos, assim como o código desse relatório, foi feito utilizando a linguagem de programação R e o script pode ser visualizado nesse diretório do github: https://github.com/thais01fernandes/teste_movimento_pela_base
 
 
 
