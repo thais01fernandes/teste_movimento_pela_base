@@ -1,0 +1,112 @@
+---
+title: "Case - Movimento Pela Base"
+author: "Thais Fernandes Pereira"
+date: "17/03/2022"
+output:
+  html_document:
+    theme: flatly  
+    self-contained: true
+    toc: true
+    toc_float: true
+    css:
+      - estilo.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+
+library("tidyverse")
+library("ggplot2")
+library("readr")
+library("readxl")
+library("googlesheets4")
+library("googledrive")
+library("reactable")
+library("usethis")
+
+```
+
+
+
+```{r include=FALSE}
+
+file1 <- "https://raw.githubusercontent.com/thais01fernandes/teste_movimento_pela_base/main/matriculas_por_municipio.csv?token=GHSAT0AAAAAABRE5KF5MRH2M3AQUAT647UMYRSB7NA"
+microdados_base_limpa <- read_delim(file1, delim = ",") 
+            
+```
+
+
+## 1. Tarefa I - Sugestões de melhorias 
+
+A partir da observação dos dados da aba "indicadores" para o Estado de São Paulo, gostaria de destacar os seguintes pontos: 
+
+a) Abaixo de "Currículo EI/EF", logo no início, o gráfico que representa o dado de 99.2% de redes municipais com currículos alinhados à BNCC, aparece em um círculo completo, o que dá ideia de que todas as escolas do município estão alinhadas, na verdade ele deveria ser um círculo quase completo, o que estaria de acordo com o dado apresentado. 
+
+b) O gráfico "Histórico de alinhamento dos currículos municipais de EF/EI" é um gráfico de linhas, que geralmente é ultilizado para série histórica e poder dar o entendimento de que quando a linha descresce o dado é negativo, quando na verdade a informação de que 628 escolas aderiram em 2019 e 9 em 2020 é um indicador positivo pois é cumulativo. O formato do gráfico está passando o entendimento de que houve uma redução no número de escolas que aderiram quando na verdade não é isso que está acontecendo. A sugestão é um gráfico que pode ser de série histórica, de linha, mas que seja de progressão percentual, por exemplo: ano 2018 0% de adesão, ano 2019 97.3% de adesão e ano de 2020 98.7% de adesão. 
+
+c) O dado "Redes municipais a partir do currículo escolhido" tem uma legenda distante do gráfico e fica difícil entender que ela pertence ao gráfico, e que o mesmo é dinâmico em relação a escolha do sistema de ensino, me parece que isso acontece pois essas informações estão uma depois da outra, se estivessem lado a lado faria mais sentido a ligação entre elas. Parar deixar mais espaço para apresentação dos dados, eu sugiro retirar essa caixa à esquerda da página, onde fica "sobre o que você quer saber?", ela polui a visão geral da página e tira o foco do leitor nos dados. 
+
+d) Na parte "Comparativo da adesão das redes municipais ao referencial curricular estadual" o dado também tem uma apresentação parece incorreto. Para o filtro "visualizar por currículos potencialmente impactados", o rótulo de barra de SP por exemplo, tem o número 633, a porcentagem diz que isso representa 14,58%, o valor entre parêntesis diz que o total é exatamente 633, mas a informação passada logo no ínicio da página diz que o número de escolas em SP é de 645. As outras barras estão com o mesmo tipo de apresentação. Também é difícil entender o que significa currículos potencialmente impactados, não é claro o que se quer dizer com isso. 
+
+e) Quando a opção Novo Ensino Médio está selecionado, ainda vendo os dados sobre o município de São Paulo, na parte "Situação da construção curricular", o gráfico de barras apresenta um zero em amarelo ao lado da porcentagem apresentada a frente de cada uma das barras, eu entendi que isso quer dizer que não há nenhum referencial curricular ainda não enviado para aprovação do CEE, no entanto parece um erro da página e não uma informação. 
+
+f) Na parte de panorama geral da implementação, que é dividida entre ensino infantil e fundamental e ensino médio, eu senti falta de uma introdução com certos dados básicos sobre a educação no Brasil, como quantidade de escolas, alunos e professores, assim como na parte de filtro por  cidade e estado. 
+
+
+## 2. Tarefa II - Base de Dados
+
+Além dessa tabela, essa base de dados também pode ser encontrada no google sheets, através desse link: [Base Google Sheets](https://docs.google.com/spreadsheets/d/11d1f-q7GQFedSMot2rKXLHcnTNDcn74qBLgk0c42XTw/edit#gid=1289488521) 
+
+
+```{r echo=FALSE}
+
+microdados_base_limpa %>% 
+  select(NO_UF, CO_MUNICIPIO, NO_MUNICIPIO, TP_DEPENDENCIA, QT_MAT_INF_CRE_soma, QT_MAT_INF_PRE_soma, QT_MAT_INF_soma) %>% 
+  reactable(
+      defaultPageSize = 5,
+      searchable = TRUE,
+      outlined = FALSE, 
+      showPageInfo = TRUE, 
+      showPageSizeOptions = TRUE,
+      defaultColDef = colDef(
+      align = "center",
+      headerStyle = list(background = "#f7f7f8")),
+      columns = list(
+      NO_UF= colDef("Unidade Federativa", minWidth = 105, align = "center"),
+      CO_MUNICIPIO = colDef("Código do Município", minWidth = 120, align = "center"),
+      NO_MUNICIPIO = colDef("Nome do Município",  minWidth = 120, align = "center"),
+      TP_DEPENDENCIA = colDef("Dependência Administrativa",  minWidth = 120, align = "center"),
+      QT_MAT_INF_CRE_soma = colDef("Quantidade de Matrículas em Creches",  minWidth = 120, align = "center"),
+      QT_MAT_INF_PRE_soma = colDef("Quantidade de Matrículas em Pré-escolas",  minWidth = 120, align = "center"),
+      QT_MAT_INF_soma = colDef("Total de Matrículas na Ed. Infantil",  minWidth = 120, align = "center"), 
+      pageSizeOptions = c(5, 10,15,20,25,30), bordered = TRUE, striped = FALSE, highlight = TRUE))
+
+
+```
+
+
+## 3. Tarefa III - Visualização de Dados 
+
+
+-   A tarefa de visualização de dados está nesse link: [Dashboard Power Bi](https://app.powerbi.com/view?r=eyJrIjoiMWI0YjIxNTAtMDk3MS00MjI4LTk2MjgtNjUyMTJmOGJiZDczIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9&pageName=ReportSection79c3bf50a1dbe47688d9) 
+-   Foram produzidos 3 gráficos: 2 no Power Bi e um mapa no software QGIS 
+
+
+## 4. Algumas fontes 
+
+
+-   O Censo Escolar 2021 foi a fonte utilizada para construção da base de dados de quantidades de matrículas por município e foi encontrada nesse endereço: [Ceso Escolar 2021](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)
+
+-   O carregamento dos dados e limpeza para a preparação da tabela final e dos gráficos, assim como o código desse relatório, foi feito utilizando a linguagem de programação R e o script pode ser visualizado nesse diretório do github: [Diretório no GitHub](https://github.com/thais01fernandes/teste_movimento_pela_base)
+
+
+
+
+
+
+
+
+
